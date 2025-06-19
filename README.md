@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ronak%20Chordia-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
   <a href="mailto:ronak.m.chordia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ronak.m.chordia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-ronak.m.chordia@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/Location-Chennai,%20India-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-success?style=flat-square" />
   <img alt="Profile Visitors" src="https://komarev.com/ghpvc/?username=Ron111104&style=flat-square&color=blue"/>
