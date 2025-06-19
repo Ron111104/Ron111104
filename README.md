@@ -29,14 +29,14 @@ Hi there! I’m **Ronak Chordia**, a passionate final-year student specializing 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ron111104&theme=moonlight" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ron111104&theme=moonlight" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ron111104&theme=moonlight&utcOffset=8" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ron111104&theme=algolia" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ron111104&theme=algolia" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ron111104&theme=algolia&utcOffset=8" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ron111104&theme=moonlight" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ron111104&theme=moonlight" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ron111104&theme=algolia" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ron111104&theme=algolia" alt="Most Commit Language" />
 </p>
 
 ---
