@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/github/stars/Ron111104?label=Stars&style=flat-square" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ron111104&theme=algolia&column=7)](https://github.com/Ron111104)
 ---
 
 ### 🚀 About Me
