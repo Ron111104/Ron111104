@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/ronak-chordia/">
     <img src="https://img.shields.io/badge/LinkedIn-Ronak%20Chordia-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="mailto:ronakchordia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ronakchordia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
+  <a href="mailto:ronak.m.chordia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ronak.m.chordia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Location-Chennai,%20India-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-success?style=flat-square" />
@@ -22,7 +22,7 @@
 
 Hi there! I’m **Ronak Chordia**, a passionate final-year student specializing in **Data Science**, **Machine Learning**, and **Full-Stack Development**. Currently focusing on **MLOps**, **GenAI applications**, and **Cloud deployment**.
  
-Reach me via ronakchordia@gmail.com
+**Reach me via** [LinkedIn](https://www.linkedin.com/in/ronak-chordia/)
 
 ---
 
