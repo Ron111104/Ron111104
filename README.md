@@ -20,9 +20,9 @@
 
 ### 🚀 About Me
 
-Hi there! I’m **Ronak Chordia**, a passionate final-year student specializing in **Data Science**, **Machine Learning**, and **Full-Stack Development**.currently focused on **MLOps**, **GenAI applications**, and **Cloud deployment**.
+Hi there! I’m **Ronak Chordia**, a passionate final-year student specializing in **Data Science**, **Machine Learning**, and **Full-Stack Development**. Currently focusing on **MLOps**, **GenAI applications**, and **Cloud deployment**.
  
-Reach me: ronakchordia@gmail.com
+Reach me via ronakchordia@gmail.com
 
 ---
 
