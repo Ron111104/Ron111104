@@ -19,7 +19,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ron111104&theme=algolia&column=9)](https://github.com/Ron111104)
 ---
 
-### 🚀 About Me
+### About Me
 
 Hi there! I’m **Ronak Chordia**, a passionate final-year student specializing in **Data Science**, **Machine Learning**, and **Full-Stack Development**. Currently focusing on **MLOps**, **GenAI applications**, and **Cloud deployment**.
  
@@ -27,7 +27,7 @@ Hi there! I’m **Ronak Chordia**, a passionate final-year student specializing 
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ron111104&theme=algolia" alt="Profile Details" />
